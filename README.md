@@ -62,8 +62,6 @@ image data, and classify emotions such as:
 
 \## How to Run
 
-
-
 1.Clone the repository.
 
 2.Install required libraries:
@@ -84,9 +82,9 @@ image data, and classify emotions such as:
 
 &nbsp;  
 
+
+
 \##Technologies Used:
-
-
 
 &nbsp; Python
 
@@ -99,8 +97,6 @@ image data, and classify emotions such as:
 
 
 \## Author
-
-
 
 Obu Diksha G  
 
