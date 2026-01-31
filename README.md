@@ -81,7 +81,6 @@ image data, and classify emotions such as:
 
 &nbsp;  
 
-
 \##Technologies Used:
 
 &nbsp; Python
