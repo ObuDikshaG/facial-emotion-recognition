@@ -75,13 +75,11 @@ image data, and classify emotions such as:
 &nbsp;       python image\_emotion.py
 
 
-
 &nbsp;  For real-time webcam:
 
 &nbsp;       python realtime\_emotion.py
 
 &nbsp;  
-
 
 
 \##Technologies Used:
@@ -93,7 +91,6 @@ image data, and classify emotions such as:
 &nbsp; TensorFlow / Keras
 
 &nbsp; NumPy
-
 
 
 \## Author
